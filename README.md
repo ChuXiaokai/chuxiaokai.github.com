@@ -1,5 +1,4 @@
 # Xiaokai Chu (储晓恺)
-                                                                                    
 Ph.D. student, Computer Science and Technology
 
 Institute of Computing Technology, Chinese Academy of Sciences,Beijing
@@ -17,15 +16,14 @@ In the same year, I was admitted to study for a Ph.D. degree without entrance ex
 
 ## Research Interests
 My research interests include: Social Network Mining and Graph Algorithm. Currently, I’m focused on:
-
-Network Representation Learning (NRL)
-Graph Convolutional Network (GCN)
-Network Alignment.
+-   Network Representation Learning (NRL)
+-   Graph Convolutional Network (GCN)
+-   Network Alignment.
 
 ## Publications
-__X.-K. Chu, X.-X. Fan, Y. Di, Z.-H. Zhu, J.-H. Huang and J.-P. Bi. Cross-Network Embedding for Multi-Network Alignment. In Proceedings of the 2019 World Wide Web Conference (WWW 2019), San Francisco, California, USA, in press.__
+_X.-K. Chu, X.-X. Fan, Y. Di, Z.-H. Zhu, J.-H. Huang and J.-P. Bi. Cross-Network Embedding for Multi-Network Alignment. In Proceedings of the 2019 World Wide Web Conference (WWW 2019), San Francisco, California, USA, in press._
 
-__X.-K. Chu, X.-X. Fan, Y. Di, C.-L. Zhang, J.-H. Huang and J.-P. Bi. Noise-Aware Network Embedding for Multiplex Network. In Proceedings of the 2019 International Joint Conference on Neural Networks (IJCNN 2019), Budapest, Hungary, in press.__
+_X.-K. Chu, X.-X. Fan, Y. Di, C.-L. Zhang, J.-H. Huang and J.-P. Bi. Noise-Aware Network Embedding for Multiplex Network. In Proceedings of the 2019 International Joint Conference on Neural Networks (IJCNN 2019), Budapest, Hungary, in press._
 
 ## Correspondence
 Institute of Computing Technology, Chinese Academy of Sciences

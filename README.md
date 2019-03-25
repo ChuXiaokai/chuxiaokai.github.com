@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+# Xiaokai Chu (储晓恺)
+                                                                                    
+Ph.D. student, Computer Science and Technology
 
-You can use the [editor on GitHub](https://github.com/ChuXiaokai/ChuXiaokai/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Institute of Computing Technology, Chinese Academy of Sciences,Beijing
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Supervisor: Prof. Jingping Bi
 
-### Markdown
+E-mail: chuxiaokai@ict.ac.cn
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Biography
+I’m a third year Ph.D. student of Computer Science and Technology in Institute of Computing Technology, Chinese Academy of Sciences.
 
-```markdown
-Syntax highlighted code block
+Before my Ph.D. career, I received my B.Sc. degree in Computer Science and Technology in June 2016 from University of Science and Technology of China.
 
-# Header 1
-## Header 2
-### Header 3
+In the same year, I was admitted to study for a Ph.D. degree without entrance examination.
 
-- Bulleted
-- List
+## Research Interests
+My research interests include: Social Network Mining and Graph Algorithm. Currently, I’m focused on:
 
-1. Numbered
-2. List
+Network Representation Learning (NRL)
+Graph Convolutional Network (GCN)
+Network Alignment.
 
-**Bold** and _Italic_ and `Code` text
+## Publications
+__X.-K. Chu, X.-X. Fan, Y. Di, Z.-H. Zhu, J.-H. Huang and J.-P. Bi. Cross-Network Embedding for Multi-Network Alignment. In Proceedings of the 2019 World Wide Web Conference (WWW 2019), San Francisco, California, USA, in press.__
 
-[Link](url) and ![Image](src)
-```
+__X.-K. Chu, X.-X. Fan, Y. Di, C.-L. Zhang, J.-H. Huang and J.-P. Bi. Noise-Aware Network Embedding for Multiplex Network. In Proceedings of the 2019 International Joint Conference on Neural Networks (IJCNN 2019), Budapest, Hungary, in press.__
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Correspondence
+Institute of Computing Technology, Chinese Academy of Sciences
 
-### Jekyll Themes
+No.6, Kexueyuan South Road, Zhongguancun,
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ChuXiaokai/ChuXiaokai/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Beijing, China,
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Postcode: 100190

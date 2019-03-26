@@ -1,3 +1,4 @@
+![](pic/美国队长.png)
 # Xiaokai Chu (储晓恺)
 Ph.D. student, Computer Science and Technology
 

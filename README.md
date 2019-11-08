@@ -1,4 +1,4 @@
-<script async src="//dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
 # Xiaokai Chu (储晓恺) <img align="right" src="pic/photo.jpeg">
 Ph.D. student, Computer Science and Technology
 
@@ -55,6 +55,3 @@ Beijing, China,
 
 Postcode: 100190
 
- <span id="busuanzi_container_site_pv">
-    本站总访问量<span id="busuanzi_value_site_pv"></span>次
-</span>

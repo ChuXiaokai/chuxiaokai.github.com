@@ -1,4 +1,4 @@
-# Xiaokai Chu (储晓恺)
+# Xiaokai Chu (储晓恺) ![photo](pic/photo.jpeg)
 Ph.D. student, Computer Science and Technology
 
 Institute of Computing Technology, Chinese Academy of Sciences, Beijing
@@ -6,6 +6,7 @@ Institute of Computing Technology, Chinese Academy of Sciences, Beijing
 Supervisor: Prof. Jingping Bi
 
 E-mail: chuxiaokai@ict.ac.cn
+
 
 ## Biography
 I’m a 4th year Ph.D. student of Computer Science and Technology in Institute of Computing Technology, Chinese Academy of Sciences.

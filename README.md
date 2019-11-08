@@ -24,23 +24,23 @@ My research interests include: Social Network Mining and Deep Learning. Currentl
 
 ## Experience
 ### _Social Network Mining_
-Worked on network alignment problem according to topology structure.
+> Worked on network alignment problem according to topology structure.
 - Studied the interpretability in embedding-based network alignment methods
 - Developed a representation learning method to jointly align multiple networks.
 
-Worked on designing graph neural network for vertex classification.
+> Worked on designing graph neural network for vertex classification.
 - Assisted in developing a graph convolutional gate for collective classification in heterogeneous networks.
 
 ### _Network Embedding_
-Worked on learnisng node representations of social networks.
+> Worked on learnisng node representations of social networks.
 - Proposed a method that addresses the noise problem in multiplex network embedding.
 
 ### _Trajectory Data Mining_
-Worked on trajectory clusterin.
+> Worked on trajectory clusterin.
 - Took part in an anomaly detection system for moinitoring the trajectories and report unusual behaviors.
 
 ### _Short Text Analysis Project_
-Worked on improving the accuracy for short text classification.
+> Worked on improving the accuracy for short text classification.
 
 ## Publications
 _X.-K. Chu, X.-X. Fan, Y. Di, Z.-H. Zhu, J.-H. Huang and J.-P. Bi. Cross-Network Embedding for Multi-Network Alignment. In Proceedings of the 2019 World Wide Web Conference (WWW 2019), San Francisco, California, USA._[[paper](https://dl.acm.org/citation.cfm?doid=3308558.3313499),[code](https://github.com/ChuXiaokai/CrossMNA)]

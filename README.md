@@ -25,10 +25,11 @@ My research interests include: Social Network Mining and Deep Learning. Currentl
 > Worked on network alignment problem according to topology structure.
 - Studied the interpretability in embedding-based network alignment methods
 - Developed a representation learning method to jointly align multiple networks.
+> Worked on designing graph neural network for vertex classification.
+- Assisted in developing a graph convolutional gate for collective classification in heterogeneous networks.
 
 ### _Network Embedding_
 > Worked on learning node representations of social networks.
-- Assisted in developing a heterogeneous graph convolutional gate for collective classification task.
 - Proposed a method that addresses the noise problem in multiplex network embedding.
 
 ### _Trajectory Data Mining_
@@ -39,9 +40,9 @@ My research interests include: Social Network Mining and Deep Learning. Currentl
 > Worked on improving the accuracy for short text classification.
 
 ## Publications
-_X.-K. Chu, X.-X. Fan, Y. Di, Z.-H. Zhu, J.-H. Huang and J.-P. Bi. Cross-Network Embedding for Multi-Network Alignment. In Proceedings of the 2019 World Wide Web Conference (WWW 2019), San Francisco, California, USA._
+_X.-K. Chu, X.-X. Fan, Y. Di, Z.-H. Zhu, J.-H. Huang and J.-P. Bi. Cross-Network Embedding for Multi-Network Alignment. In Proceedings of the 2019 World Wide Web Conference (WWW 2019), San Francisco, California, USA._[[paper](https://dl.acm.org/citation.cfm?doid=3308558.3313499),[code](https://github.com/ChuXiaokai/CrossMNA)]
 
-_X.-K. Chu, X.-X. Fan, Y. Di, C.-L. Zhang, J.-H. Huang and J.-P. Bi. Noise-Aware Network Embedding for Multiplex Network. In Proceedings of the 2019 International Joint Conference on Neural Networks (IJCNN 2019), Budapest, Hungary._
+_X.-K. Chu, X.-X. Fan, Y. Di, C.-L. Zhang, J.-H. Huang and J.-P. Bi. Noise-Aware Network Embedding for Multiplex Network. In Proceedings of the 2019 International Joint Conference on Neural Networks (IJCNN 2019), Budapest, Hungary._[[paper](https://ieeexplore.ieee.org/document/8851949),[code](https://github.com/ChuXiaokai/NANE)]
 
 ## Correspondence
 Institute of Computing Technology, Chinese Academy of Sciences

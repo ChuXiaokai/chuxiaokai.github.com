@@ -27,6 +27,7 @@ My research interests include: Social Network Mining and Deep Learning. Currentl
 > Worked on network alignment problem according to topology structure.
 - Studied the interpretability in embedding-based network alignment methods
 - Developed a representation learning method to jointly align multiple networks.
+
 > Worked on designing graph neural network for vertex classification.
 - Assisted in developing a graph convolutional gate for collective classification in heterogeneous networks.
 

@@ -1,4 +1,4 @@
-# Xiaokai Chu (储晓恺) ![photo](pic/photo.jpeg  =250x250){:class="img-responsive"}
+# Xiaokai Chu (储晓恺) ![](pic/photo.jpeg  =250x250)
 Ph.D. student, Computer Science and Technology
 
 Institute of Computing Technology, Chinese Academy of Sciences, Beijing

@@ -47,6 +47,8 @@ _X.-K. Chu, X.-X. Fan, Y. Di, Z.-H. Zhu, J.-H. Huang and J.-P. Bi. Cross-Network
 
 _X.-K. Chu, X.-X. Fan, Y. Di, C.-L. Zhang, J.-H. Huang and J.-P. Bi. Noise-Aware Network Embedding for Multiplex Network. In Proceedings of the 2019 International Joint Conference on Neural Networks (IJCNN 2019), Budapest, Hungary._[[paper](https://ieeexplore.ieee.org/document/8851949),[code](https://github.com/ChuXiaokai/NANE)]
 
+_Z.-H. Zhu, X.-X. Fan, X.-K. Chu and J.-P. Bi. HGCN: A Heterogeneous Graph Convolutional Network-Based Deep Learning Model Toward Collective Classification. Accepted by the 2020 Conference on Knowledge Discovery and Data Mining (KDD 2020), San Diego, California, USA. In press._
+
 ## Correspondence
 Institute of Computing Technology, Chinese Academy of Sciences
 

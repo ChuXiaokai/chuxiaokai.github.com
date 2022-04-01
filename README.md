@@ -1,46 +1,20 @@
 
 # Xiaokai Chu (储晓恺) <img align="right" src="pic/photo.jpeg">
-Ph.D. student, Computer Science and Technology
+Xiaokai Chu (储晓恺) is a Phd candidate in Institute of Computing Technology, Chinese Academy of Sciences, supervised by Prof. Jingping Bi. 
+He currently focuses on data mining on homogeneous/heterogeneou, pretraining models, and learning-to-rank.
 
-Institute of Computing Technology, Chinese Academy of Sciences, Beijing
-
-Supervisor: Prof. Jingping Bi
-
+## Contact Information
 E-mail: xiaokaichu AT gmail DOT com
 
+## Education & Experiences
+- Apr. 2021 - Now: Baidu Inc. Beijing, China
+    - Research Scientist (Intern) at Data Science Lab.
+    - Advisor: Jiashu Zhao, Lixin Zou.
+- 2016 – Now: Institute of Computing Technology, Chinese Academy of Sciences. Beijing, China.
+    - Ph.D. candidate in Computer Science & Technology.
+- 2012 – 2016: University of Science and Technology of China. Hefei, Anhui, China.
+    - B.Sc. in Computer Science and Technology.
 
-## Biography
-I’m a 4th year Ph.D. student of Computer Science and Technology in Institute of Computing Technology, Chinese Academy of Sciences.
-
-Before my Ph.D. career, I received my B.Sc. degree in Computer Science and Technology in June 2016 from University of Science and Technology of China.
-
-In the same year, I was admitted to study for a Ph.D. degree without entrance examination.
-
-## Research Interests
-My research interests include: Social Network Mining and Deep Learning. Currently, I’m focused on social network related tasks:
--   Network Embedding;
--   Network Alignment;
--   Node Classification;
-
-## Experience
-### _Social Network Mining_
-> Worked on network alignment problem according to topology structure.
-- Studied the interpretability in embedding-based network alignment methods
-- Developed a representation learning method to jointly align multiple networks.
-
-> Worked on designing graph neural network for vertex classification.
-- Assisted in developing a graph convolutional gate for collective classification in heterogeneous networks.
-
-### _Network Embedding_
-> Worked on learnisng node representations of social networks.
-- Proposed a method that addresses the noise problem in multiplex network embedding.
-
-### _Trajectory Data Mining_
-> Worked on trajectory clusterin.
-- Took part in an anomaly detection system for moinitoring the trajectories and report unusual behaviors.
-
-### _Short Text Analysis Project_
-> Worked on improving the accuracy for short text classification.
 
 ## Publications
 > * denotes fair contribution)

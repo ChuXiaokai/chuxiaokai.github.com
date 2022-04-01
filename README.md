@@ -1,7 +1,6 @@
 
 # Xiaokai Chu (储晓恺) <img align="right" src="pic/photo.jpeg">
-Xiaokai Chu (储晓恺) is a Phd candidate in Institute of Computing Technology, Chinese Academy of Sciences, supervised by Prof. Jingping Bi. 
-He currently focuses on data mining on homogeneous/heterogeneou, pretraining models, and learning-to-rank.
+Xiaokai Chu (储晓恺) is a Phd candidate in Institute of Computing Technology, Chinese Academy of Sciences, supervised by Prof.Jingping Bi. He currently focuses on data mining on homogeneous and heterogeneous graphs, pretraining models, and learning-to-rank.
 
 ## Contact Information
 E-mail: xiaokaichu AT gmail DOT com
@@ -12,11 +11,12 @@ E-mail: xiaokaichu AT gmail DOT com
     - Advisor: Jiashu Zhao, Lixin Zou.
 - 2016 – Now: Institute of Computing Technology, Chinese Academy of Sciences. Beijing, China.
     - Ph.D. candidate in Computer Science & Technology.
+    - Supervisor: Jingping Bi
 - 2012 – 2016: University of Science and Technology of China. Hefei, Anhui, China.
     - B.Sc. in Computer Science and Technology.
 
 ## Publications
-__(\* denotes fair contribution)__
+(\* denotes fair contribution)
 
 - **Xiaokai Chu**, Jiashu Zhao, Lixin Zou, Dawei Yin. A Hierarchical Multi-Granularity Pre-Trained Language Model for Web Search. (To appear in **SIGIR'22**, CCF-A)
 

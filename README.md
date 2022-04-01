@@ -15,7 +15,6 @@ E-mail: xiaokaichu AT gmail DOT com
 - 2012 – 2016: University of Science and Technology of China. Hefei, Anhui, China.
     - B.Sc. in Computer Science and Technology.
 
-
 ## Publications
 > * denotes fair contribution)
 

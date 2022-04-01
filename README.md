@@ -43,27 +43,27 @@ My research interests include: Social Network Mining and Deep Learning. Currentl
 > Worked on improving the accuracy for short text classification.
 
 ## Publications
-($^\dagger$ denotes fair contribution)
+> * denotes fair contribution)
 
-**Xiaokai Chu**, Jiashu Zhao, Lixin Zou, Dawei Yin. A Hierarchical Multi-Granularity Pre-Trained Language Model for Web Search. (To appear in **SIGIR'22**, CCF-A)
+- **Xiaokai Chu**, Jiashu Zhao, Lixin Zou, Dawei Yin. A Hierarchical Multi-Granularity Pre-Trained Language Model for Web Search. (To appear in **SIGIR'22**, CCF-A)
 
-Wenbin Li $^\dagger$, **Xiaokai Chu** $^\dagger$, Yueyang Su, Di Yao, Shiwei Zhao, Runze Wu, Shize Zhang, Jianrong Tao, Hao Deng, Jingping Bi. 
+- Wenbin Li *, **Xiaokai Chu** *, Yueyang Su, Di Yao, Shiwei Zhao, Runze Wu, Shize Zhang, Jianrong Tao, Hao Deng, Jingping Bi. 
 FingFormer: Contrastive Graph-based Finger Operation Transformer for Unsupervised Mobile Game Bot Detection.
 (To appear in **WWW'22**, CCF-A)
 
-**Xiaokai Chu**, Jiashu Zhao, Xinxin Fan, Di Yao, Zhihua Zhu, Dawei Yin, Lixin Zou, Jingping Bi. Contrastive Disentangled Graph Convolutional Network for Weakly-supervised Node Classification. (**DASFAA'22**, CCF-B)
+- **Xiaokai Chu**, Jiashu Zhao, Xinxin Fan, Di Yao, Zhihua Zhu, Dawei Yin, Lixin Zou, Jingping Bi. Contrastive Disentangled Graph Convolutional Network for Weakly-supervised Node Classification. (**DASFAA'22**, CCF-B)
 
-**Xiaokai Chu**, Xinxin Fan, Zhihua Zhu, Jingping Bi: Variational Cross-Network Embedding for Anonymized User Identity Linkage. (**CIKM'21** CCF-B)
+- **Xiaokai Chu**, Xinxin Fan, Zhihua Zhu, Jingping Bi: Variational Cross-Network Embedding for Anonymized User Identity Linkage. (**CIKM'21** CCF-B)
 
-Zhihua Zhu, **Xinxin Fan**, Xiaokai Chu, Jianhui Huang, Jingping Bi: LRHNE: A Latent-Relation Enhanced Embedding Method for Heterogeneous Information Networks. (**CIKM'20** CCF-B)
+- Zhihua Zhu, **Xinxin Fan**, Xiaokai Chu, Jianhui Huang, Jingping Bi: LRHNE: A Latent-Relation Enhanced Embedding Method for Heterogeneous Information Networks. (**CIKM'20** CCF-B)
 
-Zhihua Zhu, **Xinxin Fan**, Xiaokai Chu, Jingping Bi:
+- Zhihua Zhu, **Xinxin Fan**, Xiaokai Chu, Jingping Bi:
 HGCN: A Heterogeneous Graph Convolutional Network-Based Deep Learning Model Toward Collective Classification. (**SIGKDD'20** CCF-A)
 
-**Xiaokai Chu**, Xinxin Fan, Di Yao, Chen-Lin Zhang, Jianhui Huang, Jingping Bi:
+- **Xiaokai Chu**, Xinxin Fan, Di Yao, Chen-Lin Zhang, Jianhui Huang, Jingping Bi:
 Noise-Aware Network Embedding for Multiplex Network. (**IJCNN'19** CCF-C)
 
-**Xiaokai Chu**, Xinxin Fan, Di Yao, Zhihua Zhu, Jianhui Huang, Jingping Bi:
+- **Xiaokai Chu**, Xinxin Fan, Di Yao, Zhihua Zhu, Jianhui Huang, Jingping Bi:
 Cross-Network Embedding for Multi-Network Alignment. (**WWW'19** CCF-A)
 
 ## Correspondence

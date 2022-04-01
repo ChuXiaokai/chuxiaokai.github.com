@@ -16,7 +16,7 @@ E-mail: xiaokaichu AT gmail DOT com
     - B.Sc. in Computer Science and Technology.
 
 ## Publications
-> * denotes fair contribution)
+__(\* denotes fair contribution)__
 
 - **Xiaokai Chu**, Jiashu Zhao, Lixin Zou, Dawei Yin. A Hierarchical Multi-Granularity Pre-Trained Language Model for Web Search. (To appear in **SIGIR'22**, CCF-A)
 

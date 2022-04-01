@@ -30,9 +30,9 @@ FingFormer: Contrastive Graph-based Finger Operation Transformer for Unsupervise
 
 - **Xiaokai Chu**, Xinxin Fan, Zhihua Zhu, Jingping Bi: Variational Cross-Network Embedding for Anonymized User Identity Linkage. (**CIKM'21** CCF-B)
 
-- Zhihua Zhu, **Xinxin Fan**, Xiaokai Chu, Jianhui Huang, Jingping Bi: LRHNE: A Latent-Relation Enhanced Embedding Method for Heterogeneous Information Networks. (**CIKM'20** CCF-B)
+- Zhihua Zhu, Xinxin Fan, **Xiaokai Chu**, Jianhui Huang, Jingping Bi: LRHNE: A Latent-Relation Enhanced Embedding Method for Heterogeneous Information Networks. (**CIKM'20** CCF-B)
 
-- Zhihua Zhu, **Xinxin Fan**, Xiaokai Chu, Jingping Bi:
+- Zhihua Zhu, Xinxin Fan, **Xiaokai Chu**, Jingping Bi:
 HGCN: A Heterogeneous Graph Convolutional Network-Based Deep Learning Model Toward Collective Classification. (**SIGKDD'20** CCF-A)
 
 - **Xiaokai Chu**, Xinxin Fan, Di Yao, Chen-Lin Zhang, Jianhui Huang, Jingping Bi:

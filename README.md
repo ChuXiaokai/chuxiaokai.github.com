@@ -43,11 +43,18 @@ My research interests include: Social Network Mining and Deep Learning. Currentl
 > Worked on improving the accuracy for short text classification.
 
 ## Publications
-_X.-K. Chu, X.-X. Fan, Y. Di, Z.-H. Zhu, J.-H. Huang and J.-P. Bi. Cross-Network Embedding for Multi-Network Alignment. In Proceedings of the 2019 World Wide Web Conference (WWW 2019), San Francisco, California, USA._[[paper](https://dl.acm.org/citation.cfm?doid=3308558.3313499),[code](https://github.com/ChuXiaokai/CrossMNA)]
+Xiaokai Chu, Xinxin Fan, Zhihua Zhu, Jingping Bi: Variational Cross-Network Embedding for Anonymized User Identity Linkage. CIKM 2021
 
-_X.-K. Chu, X.-X. Fan, Y. Di, C.-L. Zhang, J.-H. Huang and J.-P. Bi. Noise-Aware Network Embedding for Multiplex Network. In Proceedings of the 2019 International Joint Conference on Neural Networks (IJCNN 2019), Budapest, Hungary._[[paper](https://ieeexplore.ieee.org/document/8851949),[code](https://github.com/ChuXiaokai/NANE)]
+Zhihua Zhu, Xinxin Fan, Xiaokai Chu, Jianhui Huang, Jingping Bi: LRHNE: A Latent-Relation Enhanced Embedding Method for Heterogeneous Information Networks. CIKM 2020
 
-_Z.-H. Zhu, X.-X. Fan, X.-K. Chu and J.-P. Bi. HGCN: A Heterogeneous Graph Convolutional Network-Based Deep Learning Model Toward Collective Classification. Accepted by the 2020 Conference on Knowledge Discovery and Data Mining (KDD 2020), San Diego, California, USA. In press._
+Zhihua Zhu, Xinxin Fan, Xiaokai Chu, Jingping Bi:
+HGCN: A Heterogeneous Graph Convolutional Network-Based Deep Learning Model Toward Collective Classification. KDD 2020: 1161-1171
+
+Xiaokai Chu, Xinxin Fan, Di Yao, Chen-Lin Zhang, Jianhui Huang, Jingping Bi:
+Noise-Aware Network Embedding for Multiplex Network. IJCNN 2019: 1-8
+
+Xiaokai Chu, Xinxin Fan, Di Yao, Zhihua Zhu, Jianhui Huang, Jingping Bi:
+Cross-Network Embedding for Multi-Network Alignment. WWW 2019: 273-284
 
 ## Correspondence
 Institute of Computing Technology, Chinese Academy of Sciences

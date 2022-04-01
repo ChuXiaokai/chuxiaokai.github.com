@@ -1,5 +1,7 @@
 
-# Xiaokai Chu (储晓恺) <img align="right" src="pic/photo.jpeg">
+# Welcome to Xiaokai Chu's Homepage! 
+<img align="right" src="pic/photo.jpeg">
+
 Xiaokai Chu (储晓恺) is a Phd candidate in Institute of Computing Technology, Chinese Academy of Sciences, supervised by Prof.Jingping Bi. He currently focuses on data mining on homogeneous and heterogeneous graphs, pretraining models, and learning-to-rank.
 
 ## Contact Information
@@ -11,7 +13,7 @@ E-mail: xiaokaichu AT gmail DOT com
     - Advisor: Jiashu Zhao, Lixin Zou.
 - 2016 – Now: Institute of Computing Technology, Chinese Academy of Sciences. Beijing, China.
     - Ph.D. candidate in Computer Science & Technology.
-    - Supervisor: Jingping Bi
+    - Supervisor: Jingping Bi.
 - 2012 – 2016: University of Science and Technology of China. Hefei, Anhui, China.
     - B.Sc. in Computer Science and Technology.
 

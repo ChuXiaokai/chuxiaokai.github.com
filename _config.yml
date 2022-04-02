@@ -1,3 +1,4 @@
-theme: jekyll-theme-time-machine
-collections:
-- popular_posts
+theme: jekyll-theme-slate
+title: Welcome to Lixin Zou's Homepage!
+show_downloads: False
+google_analytics:

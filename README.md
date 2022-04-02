@@ -1,5 +1,3 @@
-
-# Welcome to Xiaokai Chu's Homepage! 
 <!-- <img align="right" src="pic/photo.jpeg"> -->
 
 Xiaokai Chu (储晓恺) is a Phd candidate in Institute of Computing Technology, Chinese Academy of Sciences, supervised by Prof.Jingping Bi. He currently focuses on data mining on graphs, pre-training language models, and learning-to-rank.

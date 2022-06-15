@@ -19,7 +19,7 @@ E-mail: chuxiaokai@ict.ac.cn
 ## Publications
 (\* denotes fair contribution)
 
-- Yueyang Su, Di Yao, **Xiaokai Chu**, Wenbin Li, Shiwei Zhao, Runze Wu, Shize Zhang, Jianrong Tao, Hao Deng, Jingping Bi. Few-shot Learning for Trajectory-based Mobile Game Cheating Detection.(To appear in SIGKDD'22, CCF-A).
+- Yueyang Su, Di Yao, **Xiaokai Chu**, Wenbin Li, Shiwei Zhao, Runze Wu, Shize Zhang, Jianrong Tao, Hao Deng, Jingping Bi. Few-shot Learning for Trajectory-based Mobile Game Cheating Detection.(To appear in **SIGKDD'22**, CCF-A).
 
 - **Xiaokai Chu**, Jiashu Zhao, Lixin Zou, Dawei Yin. A Hierarchical Multi-Granularity Pre-Trained Language Model for Web Search. (To appear in **SIGIR'22**, CCF-A).
 
@@ -38,6 +38,7 @@ E-mail: chuxiaokai@ict.ac.cn
 - **Xiaokai Chu**, Xinxin Fan, Di Yao, Chen-Lin Zhang, Jianhui Huang, Jingping Bi: Noise-Aware Network Embedding for Multiplex Network. (**IJCNN'19** CCF-C).
 
 - **Xiaokai Chu**, Xinxin Fan, Di Yao, Zhihua Zhu, Jianhui Huang, Jingping Bi: Cross-Network Embedding for Multi-Network Alignment. (**WWW'19** CCF-A).
+
 
 ## Correspondence
 Institute of Computing Technology, Chinese Academy of Sciences,

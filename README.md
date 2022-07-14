@@ -1,13 +1,15 @@
-<!-- <img align="right" src="pic/photo.jpeg"> -->
+<img align="right" src="pic/me.jpg">
 
 Xiaokai Chu (储晓恺) is a Phd candidate in Institute of Computing Technology, Chinese Academy of Sciences, supervised by Prof.Jingping Bi. He currently focuses on data mining on graphs, pre-training language models, and learning-to-rank.
 
 ## Contact Information
-<!-- E-mail: xiaokaichu AT gmail DOT com -->
-E-mail: chuxiaokai@ict.ac.cn
+E-mail: xiaokaichu AT gmail DOT com
+<!-- E-mail: chuxiaokai@ict.ac.cn -->
 
 ## Education & Experiences
-- Apr. 2021 - Now: **Baidu Inc.**, Beijing, China
+- July 2022 - Now: *Tencent Inc.*, Shanghai China
+    - Senior Engineer at CDG.
+- April 2021 - June 2022: **Baidu Inc.**, Beijing, China
     - Research Scientist (Intern) at Data Science Lab.
     - Advisor: Jiashu Zhao, Lixin Zou.
 - 2016 – Now: **Institute of Computing Technology, Chinese Academy of Sciences**, Beijing, China.
@@ -19,9 +21,9 @@ E-mail: chuxiaokai@ict.ac.cn
 ## Publications
 (\* denotes fair contribution)
 
-- Yueyang Su, Di Yao, **Xiaokai Chu**, Wenbin Li, Shiwei Zhao, Runze Wu, Shize Zhang, Jianrong Tao, Hao Deng, Jingping Bi. Few-shot Learning for Trajectory-based Mobile Game Cheating Detection.(To appear in **SIGKDD'22**, CCF-A).
+- Yueyang Su, Di Yao, **Xiaokai Chu**, Wenbin Li, Shiwei Zhao, Runze Wu, Shize Zhang, Jianrong Tao, Hao Deng, Jingping Bi. Few-shot Learning for Trajectory-based Mobile Game Cheating Detection. (**SIGKDD'22**, CCF-A).
 
-- **Xiaokai Chu**, Jiashu Zhao, Lixin Zou, Dawei Yin. A Hierarchical Multi-Granularity Pre-Trained Language Model for Web Search. (To appear in **SIGIR'22**, CCF-A).
+- **Xiaokai Chu**, Jiashu Zhao, Lixin Zou, Dawei Yin. A Hierarchical Multi-Granularity Pre-Trained Language Model for Web Search. (**SIGIR'22**, CCF-A).
 
 - Wenbin Li\*, **Xiaokai Chu**\*, Yueyang Su, Di Yao, Shiwei Zhao, Runze Wu, Shize Zhang, Jianrong Tao, Hao Deng, Jingping Bi. FingFormer: Contrastive Graph-based Finger Operation Transformer for Unsupervised Mobile Game Bot Detection. (**WWW'22**, CCF-A).
 

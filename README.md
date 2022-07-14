@@ -1,15 +1,14 @@
 <!-- <img align="right" src="pic/me.jpg"> -->
-
-
-Xiaokai Chu (储晓恺) is a Phd candidate in Institute of Computing Technology, Chinese Academy of Sciences, supervised by Prof.Jingping Bi. He currently focuses on data mining on graphs, pre-training language models, and learning-to-rank.
+## About Me
+He received his PhD degree in June 2022, under the supervision of Prof. Jingping Bi at Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS).  He currently focuses on data mining on graphs, pre-training language models, and learning-to-rank.
 
 ## Contact Information
-E-mail: xiaokaichu AT gmail DOT com
+E-mail: xiaokaichu@gmail.com
 <!-- E-mail: chuxiaokai@ict.ac.cn -->
 
-## Education & Experiences
+## Education & Academic visits
 - July 2022 - Now: *Tencent Inc.*, Shanghai China
-    - Senior Engineer at CDG.
+    - Senior Research Scientist.
 - April 2021 - June 2022: **Baidu Inc.**, Beijing, China
     - Research Scientist (Intern) at Data Science Lab.
     - Advisor: Jiashu Zhao, Lixin Zou.
@@ -43,11 +42,9 @@ E-mail: xiaokaichu AT gmail DOT com
 - **Xiaokai Chu**, Xinxin Fan, Di Yao, Zhihua Zhu, Jianhui Huang, Jingping Bi: Cross-Network Embedding for Multi-Network Alignment. (**WWW'19** CCF-A).
 
 
-## Correspondence
-Institute of Computing Technology, Chinese Academy of Sciences,
+## Academic Service 
+Reviewers of CCL 2022, KDD 2022, SIGIR 2022, NIPS 2022
 
-No.6, Kexueyuan South Road, Zhongguancun,
-
-Beijing, China,
-
-Postcode: 100190
+## Industry Collaborations
+Research collaboration with Netease for mobile game bot dectection, 2020-2021.
+Research collaboration with Huawei for intelligent server configuration, 2018-2019.

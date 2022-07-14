@@ -1,4 +1,6 @@
-<img align="right" src="pic/me.jpg">
+<!-- <img align="right" src="pic/me.jpg"> -->
+
+![Image description]("pic/me.jpg")
 
 Xiaokai Chu (储晓恺) is a Phd candidate in Institute of Computing Technology, Chinese Academy of Sciences, supervised by Prof.Jingping Bi. He currently focuses on data mining on graphs, pre-training language models, and learning-to-rank.
 

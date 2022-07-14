@@ -7,7 +7,7 @@ E-mail: xiaokaichu@gmail.com
 <!-- E-mail: chuxiaokai@ict.ac.cn -->
 
 ## Education & Academic visits
-- July 2022 - Now: *Tencent Inc.*, Shanghai China
+- July 2022 - Now: **Tencent Inc.**, Shanghai, China
     - Senior Research Scientist.
 - April 2021 - June 2022: **Baidu Inc.**, Beijing, China
     - Research Scientist (Intern) at Data Science Lab.
